@@ -1,0 +1,18 @@
+C:\Users\bazya\source\repos\Date and time v.2\Date and time v.2\bin\Debug\Date and time v.2.exe.config
+C:\Users\bazya\source\repos\Date and time v.2\Date and time v.2\bin\Debug\Date and time v.2.exe
+C:\Users\bazya\source\repos\Date and time v.2\Date and time v.2\bin\Debug\Date and time v.2.pdb
+C:\Users\bazya\source\repos\Date and time v.2\Date and time v.2\obj\Debug\Date and time v.2.csprojAssemblyReference.cache
+C:\Users\bazya\source\repos\Date and time v.2\Date and time v.2\obj\Debug\Date_and_time_v._2.Form1.resources
+C:\Users\bazya\source\repos\Date and time v.2\Date and time v.2\obj\Debug\Date_and_time_v._2.Properties.Resources.resources
+C:\Users\bazya\source\repos\Date and time v.2\Date and time v.2\obj\Debug\Date and time v.2.csproj.GenerateResource.cache
+C:\Users\bazya\source\repos\Date and time v.2\Date and time v.2\obj\Debug\Date and time v.2.csproj.CoreCompileInputs.cache
+C:\Users\bazya\source\repos\Date and time v.2\Date and time v.2\obj\Debug\Date and time v.2.exe
+C:\Users\bazya\source\repos\Date and time v.2\Date and time v.2\obj\Debug\Date and time v.2.pdb
+C:\Users\bazya\source\repos\Date and time v.2\Date and time v.2\obj\Debug\Date_and_time_v._2.Form2.resources
+C:\Users\bazya\source\repos\Date and time v.2\Date and time v.2\bin\Debug\MetroFramework.Design.dll
+C:\Users\bazya\source\repos\Date and time v.2\Date and time v.2\bin\Debug\MetroFramework.dll
+C:\Users\bazya\source\repos\Date and time v.2\Date and time v.2\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\bazya\source\repos\Date and time v.2\Date and time v.2\obj\Debug\Date and time v.2.csproj.CopyComplete
+C:\Users\bazya\source\repos\Date and time v.2\Date and time v.2\obj\Debug\Date_and_time_v._2.CalendarOnDay.resources
+C:\Users\bazya\source\repos\Date and time v.2\Date and time v.2\obj\Debug\Date_and_time_v._2.CalendarOnMonth.resources
+C:\Users\bazya\source\repos\Date and time v.2\Date and time v.2\obj\Debug\Date_and_time_v._2.CalendarOnYear.resources
